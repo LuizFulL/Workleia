@@ -1,0 +1,3 @@
+ANTES DE INICIAR, faça o seguinte:
+
+abra o "install_Libs"
